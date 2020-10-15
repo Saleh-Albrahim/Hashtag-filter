@@ -3,12 +3,9 @@
     "version": "1.0",
     "manifest_version": 2,
     "browser_action": {}, 
-    "permissions":[        
-    "tabs"
-    ],
+    "permissions":["tabs"],
     "icons": {
         "128":"img/icon128.png",
-        "64":"img/icon64.png",
         "16":"img/icon16.png"
     },
     "background":{        
