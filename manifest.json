@@ -7,9 +7,9 @@
     "tabs"
     ],
     "icons": {
-        "128":"icon128.png",
-        "64":"icon64.png",
-        "16":"icon16.png"
+        "128":"img/icon128.png",
+        "64":"img/icon64.png",
+        "16":"img/icon16.png"
     },
     "background":{        
     "scripts": ["background.js"],
