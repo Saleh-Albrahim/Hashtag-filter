@@ -26,7 +26,7 @@ you can download Google chrome form [here](https://www.google.com/chrome/?brand=
 
 > You should be seeing new page of the hashtag without any links to the
 
-## Authors
+# Authors
 
 >All project files, were created by Saleh Alibrahim  
 
