@@ -6,10 +6,11 @@ chrome.browserAction.onClicked.addListener(function (tab) {
 
             url = url.replace('search?q=', 'search?q=-filter%3Alinks')
 
-            filterTheHashtag(url);
+            filterTheHashtag(url, tab.id);
         }
     });
-    const filterTheHashtag = (link) => {
-        chrome.tabs.create({ 'url': link });
+    const filterTheHashtag = (url, id) => {
+        chrome.tabs.remove(id);
+        chrome.tabs.create({ 'url': url });
     }
 });
