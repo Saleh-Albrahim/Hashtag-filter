@@ -1,0 +1,11 @@
+{
+  "name": "hashtag-filter",
+  "version": "1.0.0",
+  "description": "Simple goggle chrome extensions help filter the twitter trends and remove all the links ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
