@@ -20,15 +20,12 @@ you can download Google chrome form [here](https://www.google.com/chrome/?brand=
 
 ----------
 
->  You should immediately see the extension show up as a Browser Action with your icon in the toolbar window of the current tab.
+*  You should immediately see the extension show up as a Browser action . 
 
-> To test out the extension, navigate to a hashtag you want to filter . Then, go ahead and click the icon for the extension.
+* To test out the extension, navigate to a hashtag you want to filter . Then, go ahead and click the icon of the extension.
 
-> You should be seeing new page of the hashtag without any links to the
+* The hashtag page should be updated with new one without any links
 
-# Authors
-
->All project files, were created by Saleh Alibrahim  
 
 
 
