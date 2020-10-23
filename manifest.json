@@ -2,7 +2,8 @@
     "name": "Hashtag filter",
     "version": "1.0",
     "manifest_version": 2,
-    "browser_action": {}, 
+    "browser_action": {
+    }, 
     "permissions":["tabs"],
     "icons": {
         "128":"img/icon128.png",
